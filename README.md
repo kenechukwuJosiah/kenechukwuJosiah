@@ -1,8 +1,8 @@
 # Hey, I am Kenechukwu Josiah!
-I am a fullstack web and mobile Developer
+I am a Developer
 <br />
 
-# 🛠
+# 🛠 Stacks
 
 NextJs | ReactJS / React Native | Ionic Framework | Typscript | Flask | TailwindCSS | Styled-Components 
 <br />
@@ -17,10 +17,10 @@ MongoDB, Atlas, Realm <br />
 
 # 🔗
 <!-- [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://linktr.ee/ifechi)  -->
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nnebedumfav/)
-[![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/iam_ifechi)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kenechukwu-onwe-543926214)
+[![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/kenechukwJosiah)
 
 # 📍
-📫 Get in touch ==> iamifechi@gmail.com
+📫 Get in touch ==> kennysuccesskay@gmail.com
 ###
    
