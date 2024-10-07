@@ -8,17 +8,17 @@ I am a passionate Full Stack Developer and DevOps Engineer with a focus on deliv
 
 ### 🚀 DevOps & Cloud:
 - **DevOps**: AWS, Docker, Kubernetes, CI/CD, Jenkins, GitLab CI
-- **Cloud Providers**: AWS, GCP
+- **Cloud Providers**: AWS
 - **Containers & Orchestration**: Docker, Kubernetes, Helm
-- **Automation & Infrastructure as Code (IaC)**: Terraform, Ansible
+- **Automation & Infrastructure as Code (IaC)**: Terraform, AWS Cloud Formation
 - **Operating Systems**: Linux (Ubuntu, CentOS, Amazon Linux)
 
 ### 👨‍💻 Full Stack Development:
 - **Back-End**: Node.js, Nest.js, Express, TypeScript
 - **Front-End**: Vue.js, React Native
 - **Databases**: MongoDB, MySQL, PostgreSQL
-- **Testing**: Jest, Mocha, Chai
-- **API Development**: RESTful APIs, GraphQL
+- **Testing**: Jest, Mocha
+- **API Development**: RESTful APIs
 
 ---
 
