@@ -1,6 +1,6 @@
 # 👋 Hey, I am Kenechukwu Josiah!
 
-I am a passionate Full Stack Developer and DevOps Engineer with a focus on delivering scalable, efficient, and secure software solutions. With over 3 years of experience, I have honed my skills in cloud computing, automation, and full-stack development. I love working with modern tech stacks, building cloud-native applications, and optimizing workflows using DevOps best practices.
+I'm a Full Stack Developer and DevOps Engineer who is focused on building scalable, efficient, and secure software solutions. With over 3 years experience, I have developed my skills in cloud computing, automation, and full-stack development. I enjoy working with modern tech stacks, building cloud-native applications, and optimizing flows, using DevOps best practices. 
 
 ---
 
