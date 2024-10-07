@@ -38,16 +38,6 @@ I am a passionate Full Stack Developer and DevOps Engineer with a focus on deliv
 
 ---
 
-# 🎯 Featured Projects
-
-- **Filenubla**: A cloud-based file storage solution similar to Google Drive, with encryption and AWS S3 integration using Nuxt.js.
-  - [View Project](https://github.com/YourUsername/filenubla)
-
-- **E-commerce Platform**: A full-stack e-commerce solution with Node.js, Vue.js, and MongoDB, featuring cart management, order tracking, and admin dashboard.
-  - [View Project](https://github.com/YourUsername/ecommerce-platform)
-
----
-
 # 🔗 Let's Connect
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kenechukwu-onwe-543926214)
