@@ -7,7 +7,7 @@ I'm a Full Stack Developer and DevOps Engineer who is focused on building scalab
 # 🛠 Tech Stacks
 
 ### 🚀 DevOps & Cloud:
-- **DevOps**: AWS, Docker, Kubernetes, CI/CD, Jenkins, GitLab CI
+- **DevOps**: Docker, Kubernetes, CI/CD, Jenkins, GitLab CI, Terraform, Cloudformation, Helm, Git
 - **Cloud Providers**: AWS, Digital Ocean
 - **Containers & Orchestration**: Docker, Kubernetes, Helm
 - **Automation & Infrastructure as Code (IaC)**: Terraform, AWS Cloud Formation
