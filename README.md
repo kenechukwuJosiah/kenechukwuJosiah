@@ -15,7 +15,7 @@ I'm a Full Stack Developer and DevOps Engineer who is focused on building scalab
 
 ### 👨‍💻 Full Stack Development:
 - **Back-End**: Node.js, Nest.js, Express, TypeScript
-- **Front-End**: Vue.js, React Native
+- **Front-End**: Vue.js
 - **Databases**: MongoDB, MySQL, PostgreSQL
 - **Testing**: Jest, Mocha
 - **API Development**: RESTful APIs
