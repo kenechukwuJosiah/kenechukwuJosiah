@@ -7,15 +7,15 @@ I'm a Full Stack Developer and DevOps Engineer who is focused on building scalab
 # 🛠 Tech Stacks
 
 ### DevOps & Cloud:
-- **DevOps**: Docker, Kubernetes, CI/CD, Jenkins, GitLab CI, Terraform, Cloudformation, Helm, Git
+- **DevOps**: Docker, Kubernetes, CI/CD, Jenkins, ArgoCD, GitLab CI, Terraform, Cloudformation, Helm, Git
 - **Cloud Providers**: AWS, Digital Ocean
 - **Containers & Orchestration**: Docker, Kubernetes, Helm
 - **Automation & Infrastructure as Code (IaC)**: Terraform, AWS Cloud Formation
 - **Operating Systems**: Linux (Ubuntu, CentOS, Amazon Linux)
 
 ### Full Stack Development:
-- **Back-End**: Node.js, Nest.js, Express, TypeScript
-- **Front-End**: Vue.js
+- **Back-End**: Javascript, Node.js, Nest.js, Express, TypeScript
+- **Front-End**: Vue.js, Nuxtjs
 - **Databases**: MongoDB, MySQL, PostgreSQL
 - **Testing**: Jest, Mocha
 - **API Development**: RESTful APIs
