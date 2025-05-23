@@ -29,6 +29,6 @@ I'm a Full Stack Developer and DevOps Engineer who is focused on building scalab
 
 ---
 
-# ⚡ Fun Facts
+# Fun Facts
 - I love exploring new technologies and contributing to open-source projects.
 - When I’m not coding, you can find me playing video games or reading.
